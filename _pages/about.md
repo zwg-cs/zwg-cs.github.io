@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "你好，这是我的个人主页"
+title: "hello! 这是我的个人网站，我将会这里分享我的学习和生活。很多内容正在更新中，敬请期待！"
 author_profile: true
 redirect_from: 
   - /about/
