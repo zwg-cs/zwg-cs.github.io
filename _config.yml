@@ -13,7 +13,7 @@ title                    : "zeng / student"
 title_separator          : "-"
 name                     : &name "嘿嘿"
 description              : &description "这个人很无聊，啥也没有"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://zwg-cs.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "计算机专业在读研究生"
   location         : "中国·上海"
   employer         : "Donghua University"
-  uri              : "https://zwg-cs.github.io/"
+  uri              : # "https://zwg-cs.github.io/"
   email            : "zeng.w.g@outlook.com"
 
   # Academic websites
