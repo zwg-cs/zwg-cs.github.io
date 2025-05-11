@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "zeng / student"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "嘿嘿"
 description              : &description "这个人很无聊，啥也没有"
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile2.png"
-  name             : "zeng"
+  name             : "Wayne"
   pronouns         : # "her"  
-  bio              : "计算机专业在读研究生"
+  bio              : "A graduate student majoring in computer science"
   location         : "中国·上海"
   employer         : "Donghua University"
   uri              : # "https://zwg-cs.github.io/"
